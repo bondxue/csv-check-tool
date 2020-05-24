@@ -4,3 +4,4 @@ This is a small tool I created to compare csv files in different folders. It is 
 
 Sample outcome:
 
+<img src="https://github.com/bondxue/csv-check-tool/blob/master/images/demo.png" width="500">
